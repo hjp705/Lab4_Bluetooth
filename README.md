@@ -1,4 +1,13 @@
-# Lab4_Bluetooth
+# Lab4 Bluetooth Control
 
-Student A : 
-Student B : 113511008 黃家珮
+Student A:
+- Push button
+- DC motor
+
+Student B:
+- Potentiometer
+- LED
+
+Functions:
+- Student A button controls Student B LED
+- Student B potentiometer controls Student A motor speed
