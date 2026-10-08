@@ -4,7 +4,7 @@ Student A:
 - Push button
 - DC motor
 
-Student B:
+Student B: 113511008 黃家珮
 - Potentiometer
 - LED
 
