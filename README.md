@@ -1,17 +1,3 @@
-# Lab4 Bluetooth Control
-
-Student A:
-- Push button
-- DC motor
-
-Student B:
-- Potentiometer
-- LED
-
-Functions:
-- Student A button controls Student B LED
-- Student B potentiometer controls Student A motor speed
-
 # 課題報告：HC-05 Master/Slave Communication
 Student A:
 - **學生姓名**：余佳紜
